@@ -1,0 +1,31 @@
+body {
+  font-family: Rubik Mono One;
+  font-style: normal;
+  font-weight: normal;
+  background-color: #b1cbfa;
+}
+.label {
+  font-size: 40px;
+  /* line-height: 99px; */
+  color: #dfe2fe;
+}
+.value {
+  font-size: 60px;
+  /* line-height: 99px; */
+  color: #7874f2;
+}
+
+.field {
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-size: 60px;
+  color: aqua;
+  text-align: center;
+}
