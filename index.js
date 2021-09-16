@@ -57,4 +57,4 @@ class CountdownTimer {
 }
 const targetDate = new Date('12.24.2021')
 const myTimer = new CountdownTimer(targetDate)
-myTimer.start()
+myTimer.start(targetDate)
